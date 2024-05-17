@@ -1,0 +1,6 @@
+[book]
+authors = ["vvarga"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook Blue Robin Theme"
